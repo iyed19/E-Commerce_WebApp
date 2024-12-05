@@ -1,0 +1,32 @@
+Objective:
+	To apply the acquired knowledge in web development, we are tasked with developing an IT project based on the MERN Stack or Next.js technology.
+
+
+General Project Description:
+	To meet this objective, ABC Company, an tech sales store, wants to get an e-commerce web site. 
+	The products managed by the company are various goods. This web site must integrate the following functionalities:
+		Identification Module: Identification of clients, admins, and managers.
+		Sales Module: Record purchases for clients.
+		Product Management Module: Add/modify/delete products.
+		Product Stock Management Module: Manage product stock entries and exits.
+		Statistics Module: View sales statistics.
+	
+	
+Functional Specifications:
+	To interact with the web application, it is necessary to log in with a user ID and password. To facilitate its use and to avoid any misuse 
+	later on, the following solution has been adopted:
+
+	Client Profile:
+		Create / Modify / Delete account
+		Add / Remove products to/from the cart
+		Place / Cancel orders
+		
+	Admin Profile:
+		Add / Modify / Delete products
+		Add / Modify / Delete clients
+		Manage product stock entries/exits
+	
+	Manager Profile:
+		Add / Modify / Delete admins
+		View sales statistics
+		View all actions performed by the admins

@@ -1,0 +1,20 @@
+/* Styles for larger screens (PC) */
+.login-background{
+    background-color: hsl(219, 56.1%, 97%) !important;
+    max-width: 50%;
+    margin: auto;
+    margin-top: 10vh;
+}
+
+
+
+/* Styles for smaller screens (phone) */
+/* @media (max-width: 768px) {
+    .login-background {
+        background-color: hsl(219, 56.1%, 97%) !important;
+        max-width: 50%;
+        margin: auto;
+        margin-top: 10vh;
+        padding: -2%;
+    }
+  } */
